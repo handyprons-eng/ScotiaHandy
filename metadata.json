@@ -1,0 +1,8 @@
+{
+  "name": "ScotiaHandy Construction",
+  "description": "Residential construction and exterior home improvements serving HRM, East Hants, and Truro, Nova Scotia. Siding, roofing, decks, sheds, and gutters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
